@@ -5,3 +5,9 @@ Sorry, I couldn't think of a better title. This script grabs all of the [SomaFM]
 Just run the script, and err... thats it!
 
 Peath!
+
+##ToDO
+
+* Maybe add an option to choose between m3u's and pls's?
+* Switch to toggle s/icy/http/
+* Dunno?
