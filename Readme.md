@@ -1,13 +1,18 @@
 # Get Me Some Soma 
 
-Sorry, I couldn't think of a better title. This script grabs all of the [SomaFM](http://www.somafm.com) m3u's. This makes it easy for when I reinstall my machine and want my SomaFM m3u's in my MPD playlist folder.
+## What is this?
+This grabs all the current playlists from SomaFM and writes it into the $CWD. 
 
-Just run the script, and err... thats it!
+## Why?
+I am forever moving machines, reinstalling machines, and [SomaFM](http://www.somafm.com) is the only online radio I tend to listen to. This makes it easier for me just run and load it into MPD for my listening pleasure.
 
-Peath!
+## Syntax
 
-##ToDO
+    $ sh get_somafm.sh
 
-* Maybe add an option to choose between m3u's and pls's?
-* Switch to toggle s/icy/http/
-* Dunno?
+## todo
+
+* Populate new stations using http://somafm.com/channels.xml (curl, awk?)
+
+## Author
+James Bos - jb (at) my full name dot com
